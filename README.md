@@ -1,16 +1,16 @@
-# 🧪 ML Regression on Raman SERS Data
+# ML Regression on Raman SERS Data
 
 This project applies and compares various regression algorithms to **predict chemical concentrations** from Raman SERS (Surface Enhanced Raman Spectroscopy) data. It aims to evaluate model performance and identify the most suitable regression approach for spectral signal interpretation.
 
 ---
 
-## 📌 Objective
+## Objective
 
 To **analyze and compare** the performance of multiple machine learning regression models in predicting target concentration values from Raman spectral data. This helps in enhancing analytical chemistry methods using computational models.
 
 ---
 
-## 📚 About the Dataset
+## About the Dataset
 
 - **Source**: Simulated or experimental SERS data (CSV format)
 - **Features**: Spectral intensities, peak positions, etc.
@@ -18,7 +18,7 @@ To **analyze and compare** the performance of multiple machine learning regressi
 
 ---
 
-## 🔍 Regression Algorithms Used
+## Regression Algorithms Used
 
 Each model is implemented in its own Jupyter Notebook:
 
@@ -31,7 +31,7 @@ Each model is implemented in its own Jupyter Notebook:
 
 ---
 
-## ⚙️ Workflow Summary
+## Workflow Summary
 
 1. **Data Preprocessing**
    - CSV loading
@@ -51,7 +51,7 @@ Each model is implemented in its own Jupyter Notebook:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 For each model, the following metrics are computed:
 
