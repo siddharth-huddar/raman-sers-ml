@@ -27,16 +27,16 @@ Each sample corresponds to one Raman spectrum with thousands of features represe
 
 ## Implemented Models
 
-| Model                        | Description                                                         | Notebook             |
-|-----------------------------|----------------------------------------------------------------------|----------------------|
-| Linear Regression           | Baseline linear mapping for comparison                              | `01_linear.ipynb`    |
-| Polynomial Regression       | Captures nonlinear behavior via polynomial feature expansion         | `02_poly.ipynb`      |
-| Lasso Regression (L1)       | L1 regularization for feature selection and sparsity                 | `03_lasso.ipynb`     |
-| Ridge Regression (L2)       | L2 regularization for reducing model complexity                      | `04_ridge.ipynb`     |
-| Random Forest Regressor     | Bagged decision trees for variance reduction and robustness          | `05_rf.ipynb`        |
-| AdaBoost Regressor          | Boosted weak learners with sequential error correction               | `06_adaboost.ipynb`  |
-| Gradient Boosting Regressor | Optimized additive model using gradient descent                      | `07_gb.ipynb`        |
-| Gradient Boosting + ES      | Gradient Boosting with Early Stopping for overfitting control        | `08_gb_es.ipynb`     |
+| Model                        | Description                                                         |
+|-----------------------------|----------------------------------------------------------------------|
+| Linear Regression           | Baseline linear mapping for comparison                              | 
+| Polynomial Regression       | Captures nonlinear behavior via polynomial feature expansion         | 
+| Lasso Regression (L1)       | L1 regularization for feature selection and sparsity                 | 
+| Ridge Regression (L2)       | L2 regularization for reducing model complexity                      | 
+| Random Forest Regressor     | Bagged decision trees for variance reduction and robustness          | 
+| AdaBoost Regressor          | Boosted weak learners with sequential error correction               | 
+| Gradient Boosting Regressor | Optimized additive model using gradient descent                      | 
+| Gradient Boosting + ES      | Gradient Boosting with Early Stopping for overfitting control        | 
 
 All models follow a standardized pipeline for preprocessing, training, and evaluation.
 
