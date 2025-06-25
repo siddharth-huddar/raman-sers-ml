@@ -92,7 +92,21 @@ These visualizations provide critical insight into predictive accuracy and model
 - Optional: `xgboost`, `lightgbm` (for future enhancements)
 
 ---
+## Model Performance Comparison
 
+| Model                            | R² Score | MAE         | RMSE       |
+|----------------------------------|----------|-------------|------------|
+| Linear Regression                | -0.25    | 0.0532      | 0.1443     |
+| Polynomial Regression            | 0.8325   | 0.0134      | 0.0528     |
+| Lasso Regression                 | 0.9836   | 13660.0460  | 21598.8228 |
+| Ridge Regression                 | 0.8746   | 0.0138      | 0.0457     |
+| Bagging Regressor               | 0.8376   | 0.0083      | 0.0520     |
+| Random Forest Regressor         | 1.0000   | 50.9979     | 341.4244   |
+| Gradient Boosting Regressor     | 1.0000   | 4.4656      | 11.6348    |
+| AdaBoost Regressor              | 1.0000   | 88.8531     | 180.1800   |
+| Gradient Boosting + Early Stop  | 1.0000   | 0.8875      | 8.1836     |
+
+---
 ## Future Enhancements
 
 - Incorporate dimensionality reduction (PCA, t-SNE) for visualization and modeling
