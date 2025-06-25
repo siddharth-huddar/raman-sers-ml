@@ -129,4 +129,3 @@ This work is part of a research initiative in data-driven spectroscopy. Please c
 
 ---
 
-Built for reliability. Driven by data. Grounded in signal science.
