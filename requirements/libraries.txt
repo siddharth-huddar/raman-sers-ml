@@ -1,1 +1,6 @@
-
+Download the following libraries via Command prompt (Windows)
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install seaborn (optional)
+pip install scikit-learn
