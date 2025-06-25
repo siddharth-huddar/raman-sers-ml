@@ -123,9 +123,24 @@ Surface-Enhanced Raman Spectroscopy is a highly sensitive analytical technique, 
 
 ---
 
-## Citation
+## References
 
-This work is part of a research initiative in data-driven spectroscopy. Please cite appropriately if you reference or adapt this work.
+1. Z. Al‐Shaebi, M. Akdeniz, A. O. Ahmed, M. Altunbek, and O. Aydin,  
+   *Breakthrough solution for antimicrobial resistance detection: Surface‐Enhanced RAMAN spectroscopy‐based on artificial intelligence*,  
+   **Advanced Materials Interfaces**, Nov. 2023.  
+   [DOI: 10.1002/admi.202300664](https://doi.org/10.1002/admi.202300664)
 
----
+2. J. Nie, G. Zhang, X. Lu, H. Wang, C. Sheng, and L. Sun,  
+   *Obstacle avoidance method based on reinforcement learning dual-layer decision model for AGV with visual perception*,  
+   **Control Engineering Practice**, vol. 153, p. 106121, Oct. 2024.  
+   [DOI: 10.1016/j.conengprac.2024.106121](https://doi.org/10.1016/j.conengprac.2024.106121)
 
+3. X. Bi, L. Lin, Z. Chen, and J. Ye,  
+   *Artificial intelligence for Surface‐Enhanced Raman Spectroscopy*,  
+   **Small Methods**, vol. 8, no. 1, Oct. 2023.  
+   [DOI: 10.1002/smtd.202301243](https://doi.org/10.1002/smtd.202301243)
+
+4. D. Cialla et al.,  
+   *Surface-enhanced Raman spectroscopy (SERS): progress and trends*,  
+   **Analytical and Bioanalytical Chemistry**, vol. 403, no. 1, pp. 27–54, Dec. 2011.  
+   [DOI: 10.1007/s00216-011-5631-x](https://doi.org/10.1007/s00216-011-5631-x)
