@@ -144,3 +144,9 @@ Surface-Enhanced Raman Spectroscopy is a highly sensitive analytical technique, 
    *Surface-enhanced Raman spectroscopy (SERS): progress and trends*,  
    **Analytical and Bioanalytical Chemistry**, vol. 403, no. 1, pp. 27–54, Dec. 2011.  
    [DOI: 10.1007/s00216-011-5631-x](https://doi.org/10.1007/s00216-011-5631-x)
+
+## Author
+
+**Siddharth Huddar**  
+B.Tech Mechatronics Engineering
+Manipal Institute of Technology, Manipal, Karnataka, INDIA
